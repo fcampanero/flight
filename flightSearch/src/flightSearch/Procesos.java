@@ -1,19 +1,11 @@
 package flightSearch;
 
-import java.math.RoundingMode;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.util.ArrayList;
-import java.util.Locale;
-
-import flightSearch.PriceInfants;
-import flightSearch.Search;
-import flightSearch.Vuelo;
 
 public class Procesos {
 	
